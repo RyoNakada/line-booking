@@ -13,7 +13,7 @@
     ></v-row>
 
     <v-btn color="primary" @click="onSubmit()"> 送信する </v-btn>
-    <v-btn color="red" @click="handleCancel()" dark> キャンセル </v-btn>
+   
   </div>
 </template>
 
